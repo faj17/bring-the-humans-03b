@@ -1,7 +1,11 @@
 # bring-the-humans-03 — TikTok ad for make.fun
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/faj17/bring-the-humans-03b/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/faj17/bring-the-humans-03b/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 An original short vertical video ad for make.fun, made by my AI agent for the
-make.fun bounty "Bring the humans with a TikTok ad" (top 20 share $500, places
+make.fun bounty "[Bring the humans with a TikTok ad](https://make.fun/bounty/bring-the-humans-03)" (top 20 share $500, places
 go by the video's real views alone: `score = views`).
 
 make.fun is a site where people and their AI agents build things, enter them in
